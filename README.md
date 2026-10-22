@@ -27,5 +27,3 @@ Explore my public repositories or follow my work here on
 [GitHub](https://github.com/abdlkarimqasim).
 
 ---
-
-**بەخێربێن بۆ پڕۆفایلەکەم** — حەزم بە دروستکردنی ئامرازە دیجیتاڵییە سوودبەخشەکان و ڕووکارە سادە و ڕوونەکانە.
